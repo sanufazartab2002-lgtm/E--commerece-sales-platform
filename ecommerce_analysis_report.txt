@@ -1,0 +1,28 @@
+============================================================
+E-COMMERCE DATA ANALYSIS REPORT
+============================================================
+
+--- CORE KPIs ---
+Total Orders            : 15,000
+Unique Customers        : 1,839
+Total Revenue (Delivered): Rs 196,720,505.49
+Total Profit (Delivered) : Rs 66,410,197.82
+Avg Order Value          : Rs 14,858.04
+Cancellation Rate        : 7.11%
+Return Rate              : 4.62%
+
+--- TOP CATEGORIES BY REVENUE ---
+  Electronics       : Rs 135,019,435.63
+  Home & Kitchen    : Rs 17,358,574.81
+  Sports            : Rs 16,851,246.40
+  Fashion           : Rs 13,094,075.85
+  Beauty            : Rs 8,099,717.04
+
+--- CUSTOMER SEGMENTS (RFM ANALYSIS) ---
+  Champions             :  512 customers | Revenue: Rs 143,654,186.67
+  Potential Loyalists   :  386 customers | Revenue: Rs 17,699,120.28
+  At Risk               :  343 customers | Revenue: Rs 5,188,502.82
+  Loyal Customers       :  338 customers | Revenue: Rs 29,272,313.57
+  Lost / Inactive       :  223 customers | Revenue: Rs 906,382.15
+
+Correlation (Price vs Quantity ordered): -0.011
